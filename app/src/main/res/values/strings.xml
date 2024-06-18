@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BessShort</string>
+    <string name="stringFlights">Авиабилеты</string>
+    <string name="stringHotels">Отели</string>
+    <string name="stringShort">Короче</string>
+    <string name="stringSubscriptions">Подписки</string>
+    <string name="stringProfile">Профиль</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
